@@ -1,7 +1,5 @@
 # DNA-Like: Canvas Motion Animation
-<video autoplay loop muted>
-    <source src="assets/video.mp4" type="video/mp4">
-</video>
+![Hero i mage](assets/image.png)
 
 This project is a dynamic canvas animation where colorful dots move in a DNA-like structure and interact with the mouse pointer, creating an engaging visual effect.
 
@@ -29,7 +27,6 @@ To run this project, you need a modern web browser with JavaScript enabled.
 - Move the mouse around the canvas to see the dots interact with the pointer.
 - Resize the window to see the canvas adjust accordingly.
 
+### Media Assets
 
-
-
-
+- `assets/video.mp4`: A video demonstrating the animation.
